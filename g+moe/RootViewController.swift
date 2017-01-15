@@ -18,8 +18,7 @@ extension RootViewController {
       return
     }
     
-    tc.toolbar.title = "Material"
-    tc.toolbar.detail = "Build Beautiful Software"
+    tc.toolbar.title = "首页"
   }
 }
 
