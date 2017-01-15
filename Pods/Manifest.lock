@@ -1,0 +1,43 @@
+PODS:
+  - Alamofire (4.0.1)
+  - AlamofireObjectMapper (4.0.0):
+    - Alamofire (~> 4.0)
+    - ObjectMapper (~> 2.0)
+  - Dollar (6.1.0)
+  - Material (2.3.8):
+    - Material/Core (= 2.3.8)
+  - Material/Core (2.3.8)
+  - ObjectMapper (2.2.1)
+  - SnapKit (3.0.2)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - AlamofireObjectMapper (~> 4.0)
+  - Dollar (~> 6.1.0)
+  - Material (~> 2.0)
+  - SnapKit (~> 3.0.2)
+  - SwiftyJSON (from `https://github.com/BaiduHiDeviOS/SwiftyJSON.git`, branch `swift3`)
+
+EXTERNAL SOURCES:
+  SwiftyJSON:
+    :branch: swift3
+    :git: https://github.com/BaiduHiDeviOS/SwiftyJSON.git
+
+CHECKOUT OPTIONS:
+  SwiftyJSON:
+    :commit: de5dc3b1b421805769590d331178551bbb0e5733
+    :git: https://github.com/BaiduHiDeviOS/SwiftyJSON.git
+
+SPEC CHECKSUMS:
+  Alamofire: 7682d43245de14874acd142ec137b144aa1dd335
+  AlamofireObjectMapper: 9faa3ce5a240efda1b209009a2d6e1e949227abc
+  Dollar: 0a9883680f2c1104adf0d19b827c3be71d3e3121
+  Material: d1141bd0cae4c423709349920c1ca541b0521d81
+  ObjectMapper: 41e43e1a89f8060ef5ea5d04ba852e269a621d68
+  SnapKit: 2e456761aa92d4d4067a7a5594c18769d451a8ad
+  SwiftyJSON: 6118fb49d7519c4d31a0c1f3d5af936e9047b556
+
+PODFILE CHECKSUM: b381ec8ac1838ce697f4bc0bee3d736f056e0def
+
+COCOAPODS: 1.1.1

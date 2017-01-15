@@ -1,0 +1,6 @@
+framework module Pods_g_moe {
+  umbrella header "Pods-g+moe-umbrella.h"
+
+  export *
+  module * { export * }
+}
