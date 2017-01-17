@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		104991E7A1C7559F6E9CAEA2 /* Pods_g_moe.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F47C94AE1654AD6E0BA6C251 /* Pods_g_moe.framework */; };
+		131E19561E2E55B60093BD56 /* hakureiViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 131E19551E2E55B60093BD56 /* hakureiViewController.swift */; };
 		133D6B621E2B64AE000283A3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 133D6B611E2B64AE000283A3 /* AppDelegate.swift */; };
 		133D6B691E2B64AE000283A3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 133D6B681E2B64AE000283A3 /* Assets.xcassets */; };
 		133D6B6C1E2B64AE000283A3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 133D6B6A1E2B64AE000283A3 /* LaunchScreen.storyboard */; };
@@ -22,6 +23,7 @@
 
 /* Begin PBXFileReference section */
 		0242C4A0DE182CC409E889E4 /* Pods-g+moe.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-g+moe.release.xcconfig"; path = "Pods/Target Support Files/Pods-g+moe/Pods-g+moe.release.xcconfig"; sourceTree = "<group>"; };
+		131E19551E2E55B60093BD56 /* hakureiViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = hakureiViewController.swift; sourceTree = "<group>"; };
 		133D6B5E1E2B64AE000283A3 /* g+moe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "g+moe.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		133D6B611E2B64AE000283A3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		133D6B681E2B64AE000283A3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -78,6 +80,7 @@
 				133D6B791E2B6F86000283A3 /* RootViewController.swift */,
 				133D6B7B1E2B7068000283A3 /* TransitionedViewController.swift */,
 				133D6B7D1E2B711F000283A3 /* LeftViewController.swift */,
+				131E19551E2E55B60093BD56 /* hakureiViewController.swift */,
 				133D6B7F1E2B7149000283A3 /* RightViewController.swift */,
 				133D6B681E2B64AE000283A3 /* Assets.xcassets */,
 				133D6B6A1E2B64AE000283A3 /* LaunchScreen.storyboard */,
@@ -233,6 +236,7 @@
 				133D6B7C1E2B7068000283A3 /* TransitionedViewController.swift in Sources */,
 				133D6B7E1E2B711F000283A3 /* LeftViewController.swift in Sources */,
 				133D6B7A1E2B6F86000283A3 /* RootViewController.swift in Sources */,
+				131E19561E2E55B60093BD56 /* hakureiViewController.swift in Sources */,
 				133D6B621E2B64AE000283A3 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
